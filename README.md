@@ -8,9 +8,11 @@ d'installation pour Fire TV. Le code source n'est pas publié.
 1. Paramètres, puis Mon Fire TV, puis Options pour les développeurs :
    autorisez les applications inconnues.
 2. Installez l'application Downloader depuis la boutique Amazon.
-3. Ouvrez Downloader et saisissez cette adresse :
+3. Ouvrez Downloader et saisissez ce code :
 
-   `nsztv.github.io/n.apk`
+   `6426835`
+
+   ou, à défaut, l'adresse `nsztv.github.io/n.apk`.
 4. Installez, puis ouvrez NSTV. Elle apparaît ensuite dans la liste de vos
    applications, avec sa vignette.
 
